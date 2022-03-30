@@ -1,3 +1,3 @@
 #!/bin/bash
 
-"readmefile by Rudo Chitsa" 
+"readmefile by Rudo E Chitsa" 
