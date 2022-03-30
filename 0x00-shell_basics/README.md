@@ -1,2 +1,2 @@
 #!/bin/bash
-"readmefile" 
+"readmefile by Rudo Chitsa" 
