@@ -1,3 +1,4 @@
 #!/bin/bash
 
-"readmefile by  " 
+"readmefile by Rudo Chitsa  " 
+a list of work done
