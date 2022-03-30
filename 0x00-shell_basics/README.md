@@ -1,3 +1,3 @@
 #!/bin/bash
 
-"all texts  "
+"readme  "
