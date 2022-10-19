@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 # Code to get Apache to run on the container and to return a page containing Hello Holberton
-echo "ServerName localhost" >> /etc/
-apache2.conf
-sudo service apache2 start
+
+apache2 conf
+sudo service docker start
