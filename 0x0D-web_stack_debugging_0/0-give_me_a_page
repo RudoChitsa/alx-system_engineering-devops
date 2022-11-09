@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 #!/usr/bin/env bash                                                             
 #start apache2 inside docker                                                     
 service apache2 start
+=======
+#!/usr/bin/env bash
+# Code to get Apache to run on the container and to return a page containing Hello Holberton
+
+apache2 conf
+sudo service docker start
+>>>>>>> df50735771df14485cbbbcbb13d9ef7af1b9fe36
